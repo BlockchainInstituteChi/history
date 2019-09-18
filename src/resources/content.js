@@ -13,7 +13,7 @@ const S10 = 'January 3, 2009: The first Bitcoin block was mined, marking the off
 
 module.exports = [
   {
-    date: '01/01/1989',
+    date: '03/08/1989',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/8/89/Elder_Scrolls_Arena_Cover.jpg',
     photo: './the_elder_scrolls_1_arena_wallpaper_by_thejackmoriarty-d8mlpzc.png',
     title: 'DAVID CHAUM AND DIGICASH',
@@ -45,7 +45,7 @@ module.exports = [
     content: S4
   },
   {
-    date: '11/11/1998',
+    date: '06/08/1998',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'BIT GOLD PROPOSAL',
@@ -53,7 +53,7 @@ module.exports = [
     content: S5
   },
   {
-    date: '11/11/1998',
+    date: '12/11/1999',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'Paypal',
@@ -61,7 +61,7 @@ module.exports = [
     content: S6
   },
   {
-    date: '11/11/1998',
+    date: '11/04/2004',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'REUSABLE PROOFS OF WORK',
@@ -69,7 +69,7 @@ module.exports = [
     content: S7
   },
   {
-    date: '11/11/1998',
+    date: '06/07/2006',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'LIBERTY RESERVE',
@@ -77,7 +77,7 @@ module.exports = [
     content: S8
   },
   {
-    date: '11/11/1998',
+    date: '08/18/2008',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'Bitcoin Whitepaper Published',
@@ -85,7 +85,7 @@ module.exports = [
     content: S9
   },
   {
-    date: '11/11/1998',
+    date: '01/03/2009',
     avatarURL: 'https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png',
     photo: 'http://wallpapercave.com/wp/GMifnUB.jpg',
     title: 'Bitcoin Genesis Block Mined',
