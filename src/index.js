@@ -20,7 +20,7 @@ class App extends React.Component {
         date: game.date,
         component: (
           <div className='container' key={index}>
-            <h1>{ `The Elder Scrolls ${index + 1}:`}</h1>
+            <h1>{ game.title }</h1>
             <h2>{ game.subtitle }</h2>
             <hr />
             <p>{ game.content}</p>
